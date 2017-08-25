@@ -1,1 +1,2 @@
 $ git remote add <inbreak.ca> https://github.com/Headacher/inbreak2
+$ git push -u <inbreak.ca> master
