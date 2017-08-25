@@ -1,2 +1,4 @@
 $ git remote add <inbreak.ca> https://github.com/Headacher/inbreak2
 $ git push -u <inbreak.ca> master
+$ oc new-app https://github.com/Headacher/inbreak2.git
+--name=<app-name> -e <ENV_VAR_NAME>=<env_var_value>
